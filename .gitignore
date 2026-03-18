@@ -16,6 +16,7 @@
 # next.js
 /.next/
 /out/
+/.kilocode/
 
 # production
 /build
