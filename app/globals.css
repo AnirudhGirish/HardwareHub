@@ -1,5 +1,9 @@
 @import 'tailwindcss';
 
+body {
+  font-family: 'Inter Variable', 'Inter', sans-serif;
+}
+
 @layer base {
   :root {
     --color-bg: #FFFFFF;
